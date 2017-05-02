@@ -1,2 +1,2 @@
-dotfile (`*.rc`) management
+# dotfiles
 
